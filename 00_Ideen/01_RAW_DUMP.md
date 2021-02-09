@@ -2,7 +2,10 @@
 
 Kleine Probleme und Ideen, die ohne Einordnung erstmal hier reingekippt werden
 
-----
+**Thema Nachhaltigkeit**
+Das Recht auf Reparatur geht nicht voran... Frankreich hat aber nun einen ReparaturIndex eingeführt
+https://repair.eu/de/news/the-french-repair-index-challenges-and-opportunities/
+Das sollte auch bei uns eingeführt werden --> Auf welcher Ebene? 
 
 **Thema Bildung:**
 
@@ -13,7 +16,6 @@ Wenn also das Kind lange krank oder in den Ferien ist geht die Stelle "verloren"
 Belesen und bestätigen! 
 Hier mal den Passus im Gesetz finden und einen Änderungsantrag stellen 
 
-----
 
 **Thema Wissenschaft:**:
 Wissenschaftszeitgesetz muss geändert werden - Siehe dazu: https://95vswisszeitvg.wordpress.com/
@@ -21,10 +23,13 @@ Wissenschaftszeitgesetz muss geändert werden - Siehe dazu: https://95vswisszeit
 Verwaltung in der Wissenschaft optimieren: Gruppenleiter*innen verbringen ein Viertel ihrer Zeit mit Verwaltung, obwohl eig. auf einen Wissenschaftler eine Stelle in der Verwaltung kommt --> wie an vieler Stelle arbeitet die 
 Verwaltung __gegen__ die Leute (wie auch beim Bafög?). Da muss ein Wandel her
 
-Open Science:
-- Open scientific questions: democracy in scientific questions: https://ois.lbg.ac.at/en/projects/crowdsourcing-research-questions-in-science
 
 **Thema Gesellschaft:**
+
+Gesundheit
+- Psycholog*innen/Therapeut*innen sind immernoch zu schwer zu bekommen
+- Wartezeiten sind zu hoch, wenn man ein*n bekommt, dann oft nicht in dem Fachbereich den man braucht
+- was tun? Es gibt wohl viele, aber weniger in der Kasse --> Das evtl. die Stellschraube?
 
 Radikalisierungen:
 - Aussteigerprogramme für rechte Szene stärken
@@ -42,9 +47,13 @@ Kindesmissbrauch:
 Wenn wieder jemand vorschlägt man brauche mehr Platz:
 https://www.spiegel.de/auto/verkehr-studie-aus-den-usa-breitere-strassen-helfen-nicht-gegen-stau-a-8f07ea3c-f0f0-42cb-a18d-629c24c6119d-amp#click=https://t.co/S8T1Tcy1Se
 
+Schneeräumungen --> Radwege sind immer vereist und gefährlich
+Es gab eine Studie: Frauen am häufigsten von Verletzungen durch Schnee betroffen, weil Schneeräumepläne
+auf "Männer" angepasst sind
+
 
 **Ehrenamt:**
-----
+
 Ehrenamt einpreisen
 
 Ein Ehrenamt zu belegen ist selten nur an das Ausgeben von Zeit gebunden. Selbst für Ausgaben, die von der Stelle finanziert werden sollten ist der Verantwortliche oft gezwungen die Gelder auszulegen (Fahrtkosten, Büromaterial etc). Dazu kommen gesellschaftliche Treffen/Erwartungen die bei einem Ehrenamt zwangsläufig einhergehen und die für das Ehrenamt zwingend notwendig sind. Hier sind z.B. Treffen auf einen Kaffee mit anderen Helfern oder das Ausgeben einer Kugel Eis an seine Trainingsgruppe währens des Ausflugs zu erwähnen.Diese Ausgaben können sich u.U auf >150 Euro im Monat aufsummieren. Das Geld könnte als "Ehrenamtspauschale" eig. bei armen Menschen eig. vom Staat kommen (aufrechnen auf den "Bedarf")
@@ -105,3 +114,4 @@ Hier sicher viele Duplikate, da unsortiert
     - https://www.ccc.de/de/updates/2009/pm-spickzettel
     - https://www.ccc.de/de/updates/2010/forderungen-lebenswertes-netz
     - https://publiccode.eu/de/
+
