@@ -16,6 +16,9 @@ Wenn also das Kind lange krank oder in den Ferien ist geht die Stelle "verloren"
 Belesen und bestätigen! 
 Hier mal den Passus im Gesetz finden und einen Änderungsantrag stellen 
 
+SysAdmins an Schulen:
+Die Digitalisierung der Bildung erfolgt so, dass Geräte gekauft werden aber keiner damit umgeht. es braucht für Schulen eine feste Stelle für systm administratoren, die die technische Infrastruktur der Schule am Laufen halten und sich um so etwas wie Updates etc. kümmern (bereits eingeleitet?)
+
 
 **Thema Wissenschaft:**:
 Wissenschaftszeitgesetz muss geändert werden - Siehe dazu: https://95vswisszeitvg.wordpress.com/
@@ -30,6 +33,21 @@ Gesundheit
 - Psycholog*innen/Therapeut*innen sind immernoch zu schwer zu bekommen
 - Wartezeiten sind zu hoch, wenn man ein*n bekommt, dann oft nicht in dem Fachbereich den man braucht
 - was tun? Es gibt wohl viele, aber weniger in der Kasse --> Das evtl. die Stellschraube?
+
+Hebammen
+- Bezahlen absurd hohe Haftpflichtversicherungsbeiträge --> 5900Eur im Jahr (2019)
+- Das Kinder zur Welt bringen sollte eine gesellschaftlich finanzierte Angelegenheit sein - die Risiken auch
+--> Deckeln der Versicherungseiträge!
+
+Patente in der Medizin?
+- Covid: Patente großteils von der Öffentlichkeit bezahlt https://www.citizen.org/article/the-nih-vaccine/
+- warum können Pharma-Unternehmen damit Geld verdienen? --> Hier noch nacharbeiten
+
+HarzIV:
+- muss grundsätzlich neu gemacht werden
+- spannende Studie: https://www.bmel.de/SharedDocs/Downloads/DE/_Ministerium/Beiraete/agrarpolitik/wbae-gutachten-nachhaltige-ernaehrung.html;jsessionid=A78048CCB4EDE1B141F7BF884AE49F0F.internet2831
+- aktueller Satz reicht nicht für gesunde Ernährung --> muss mindestens 600 sein
+
 
 Radikalisierungen:
 - Aussteigerprogramme für rechte Szene stärken
@@ -62,6 +80,11 @@ a) Leute mit "viel Freizeit" (Arbeitslose) motivieren ein Ehrenamt zu belegen --
 b) Leute, die aus finanziellen Gründen das Ehrenamt nicht ausführen können (social shaming) entlasten.
 
 **Thema Netzpolitik:**
+
+KRITIS
+Die meiste kritische Infrastruktur ist nicht als solche einsortiert (z.B. "kleine" Wasserwerke) -> https://www.deutschlandfunk.de/cyberkriminalitaet-chaos-computer-club-sieht-auch.1939.de.html?drn:news_id=1225609
+--> Die Resilienz kritischer Infrstruktur muss erhöht werden (siehe auch https://ag.kritis.info)
+
 Hier sicher viele Duplikate, da unsortiert
 1. IT Sicherheit stärken
     1.1 Streng defensive Ausrichtung im Cyberraum --> Sicherheitslücken schließen, nicht horten
@@ -114,4 +137,70 @@ Hier sicher viele Duplikate, da unsortiert
     - https://www.ccc.de/de/updates/2009/pm-spickzettel
     - https://www.ccc.de/de/updates/2010/forderungen-lebenswertes-netz
     - https://publiccode.eu/de/
+
+
+
+Nachhaltige Ernährung - Abschlussbericht
+Quelle: https://www.bmel.de/SharedDocs/Downloads/DE/_Ministerium/Beiraete/agrarpolitik/wbae-gutachten-nachhaltige-ernaehrung.pdf;jsessionid=76AC6A8CACA97B4011948F1ECA85D685.internet2852?__blob=publicationFile&v=3
+Zusammenfassung:
+- Verantwortung wird in DE zu sehr auf das Individuum abgelegt und bestehende Instrumente nicht genutzt. Deutschland im EU-Kontext nachzügler und nicht
+nachhaltigkeitsförderlich 
+- deutlich mehr muss getan werden. Armut korreliert mit schlechter Gesundheit (ernährungsbedingt)
+- Bei der Ernährung gibt es ein Versagen des Marktes --> Pflicht des staates da einzugreifen
+
+Zentrale politische Forderungen
+1. Systemwechel in der Kita- und Schulverpflegung
+- Beitragsfreie Kita- und Schulspeisen (ca. 5,5 mia. Euro)
+- DGE-Qualitätsstandarts einsetzen (verpflichtend)
+- soziaes Miteinander beim Essen ermöglichen
+
+2. Konsum tierischer Produkte
+- Programm Reduktion tierischer Produkte
+- keine Mehrwertsteuerreduktion für tierische Produkte (gibt es die??) --> würde 5-7mia. Euro bringen??
+- verpflichtende Klimalabel für alle Produkte
+- Transformationsstrategie für die Landwirtschaft
+
+3. Preisanreize nutzen
+- Mehrwertsteuer again
+- Verbrauchssteuer für zuckerhaltige Getränke
+	-> Dieses Geld für Investitionen nutzen
+	    - Nachhaltigkeitsprämie für arme Haushalte
+	    - Mehrwertsteuersenkung für Obst, Gemüse (Kosten: 0,5 mia.)
+	    - kostenloses Schulessen 
+- Konsum von Obst, Gemüse, Hülsenfrüchten subventionieren
+- Nachhaltigkeitssteuer für Lebensmittel einführen
+
+4. Gesundheitsfördernde Ernährung für alle ermöglichen ("Ernährungsarmut abschaffen")
+- Gute Ernährung in der Grundsicherung berücksichtigen (z.B. mehr Harz IV)
+- Schulessen kostenlos (s.O)
+- Steuern sozial abfedern
+- Monitoring zur Ernährungsarmut verbessern
+
+5. Zuverlässige Informationen bereitstellen
+- Verpflichtende Labels einführen (Nutriscore)
+- Fairness-Labels weiter entwickeln
+- An Kinder gerichtete Werbung weiter regulieren (verpflichtend Nutri-Score einblenden?)
+- Digitales Ecosystem und Bundesnachhaltigkeitsschlüssel schaffen (??)
+- "falsche Versprechen" regeln --> "Wohlfühl claims"
+
+6. Nachhaltige Ernährung
+- kleine Portionen zum Standart machen 
+- Leitungswasserkonsum fördern --> trinkwasserspender überall
+- Lebensmittelabfälle reduzieren --> Die Tafel fördern, Wegwerfverbot
+- auf eingeflogene Lebensmittel verzichten
+
+7. Öffentliche Einrichtungen verbessern
+- DGE-Qualitätsstandarts again
+- Dezentrale Mittagstische (??)
+- Ernährungsmonitoring 65+ verbessern
+
+8. Landbausysteme weiterentwickeln
+- Förderung des Ökolandbaus
+- Nachhaltige Landbewirtschaftung labeln
+
+
+
+------
+Pool an auditierter Open Source Software (BSI) --> Einsparungen für KmU
+
 
